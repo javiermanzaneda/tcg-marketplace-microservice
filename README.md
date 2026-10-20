@@ -70,7 +70,7 @@ Siga estos pasos para clonar, compilar y ejecutar todo el clúster:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/javiermanzaneda/tcg-marketplace-microservice.git
    cd tcg-marketplace
    ```
 
